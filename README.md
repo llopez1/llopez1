@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, my name is Luiz "Michael" Lopez</h1>
 <h3 align="center">Software QA Engineer</h3>
 
-- 📍 Based in Los Angeles, CA USA
+- 📍  Based in Los Angeles, CA USA
 
-- 🖥️ See my portfolio at: <a href="https://www.linkedin.com/in/luiz-michael-lopez-071b4576/">LinkedIn</a>
+- 🖥️  See my portfolio at: <a href="https://www.linkedin.com/in/luiz-michael-lopez-071b4576/">LinkedIn</a>
 
-- 🌱 I’m currently learning **: Unit testing using Jest**
+- 🌱  I’m currently learning **: Unit testing using Jest**
 
-- 💬 Ask me about **: Cypress UI testing**
+- 💬  Ask me about **: Cypress UI testing**
 
-- 📫 How to reach me **: llopez1@fandm.edu**
+- 📫  How to reach me **: llopez1@fandm.edu**
 
-- ⚡ Fun fact **: track athlete and writer**
+- ⚡  Fun fact **: track athlete and writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
