@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luiz "Michael" Lopez</h1>
-<h3 align="center">Software QA Engineer from Los Angeles, CA USA</h3>
+<h1 align="center">Hi 👋, my name is Luiz "Michael" Lopez</h1>
+<h3 align="center">Software QA Engineer</h3>
+
+- 📍 Based in Los Angeles, CA USA
+
+- 🖥️ See my portfolio at: <a href="https://www.linkedin.com/in/luiz-michael-lopez-071b4576/">LinkedIn</a>
 
 - 🌱 I’m currently learning **: Unit testing using Jest**
 
